@@ -21,6 +21,8 @@ Single-file app: index.html
 No React, JSX, npm, build tools, or external dependencies
 Runs directly in a browser
 
+https://katahdinoutpost.github.io/SkyDeck-Studio-Flight-Sim-2024-UI-Panel-Builder-/
+
 <img width="1706" height="817" alt="image" src="https://github.com/user-attachments/assets/8e3a87dd-7f04-43a9-8e73-f2d929626279" />
 <br>
 <img width="1695" height="1112" alt="image" src="https://github.com/user-attachments/assets/088d240e-778e-4293-9b04-f243a46c7e2c" />
