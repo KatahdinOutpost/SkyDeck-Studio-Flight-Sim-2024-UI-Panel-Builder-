@@ -1,4 +1,4 @@
-# SkyDeck-Studio-Flight-Sim-2024-UI-Panel-Builder-
+# SkyDeck Studio | Flight Sim 2024 UI Panel Builder
 SkyDeck Studio is a self-contained, no-code cockpit panel builder concept for Microsoft Flight Simulator 2024 addon creators.
 
 It lets users visually assemble cockpit-style panels using switches, knobs, lamps, gauges, and prebuilt flight-sim modules, then bind those controls to simulated SimVars and LVars. The app runs entirely from a single index.html file with no build tools, no backend, and no external dependencies.
